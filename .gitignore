@@ -1,0 +1,9 @@
+#############
+#Ficheros ignorados por GIT
+###########
+
+
+#clases compiladas de java.clas
+/bin/
+/.proyect
+/.classpath
